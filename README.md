@@ -1,4 +1,4 @@
-![OpenSearch logo](OpenSearch.svg)
+![OpenSearch Design](OpenSearchDesign.svg)
 
 - [Welcome!](#welcome)
 - [Project Resources](#project-resources)
