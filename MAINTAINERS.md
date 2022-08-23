@@ -5,6 +5,7 @@
 | Kevin Garcia        | [kgcreative](https://github.com/kgcreative)  | Amazon      |
 | Alexa Horgan        | [alexahorgan](https://github.com/alexahorgan)| Amazon      |
 | Bright Tzeng        | [btzeng](https://github.com/btzeng)          | Amazon      |
+| Carlos Cañas        | [canascar](https://github.com/canascar)      | Amazon      |
 | Ka Ming Leung       | [kamingleung](https://github.com/kamingleung)| Amazon      |
 | Kroosh Crusius      | [KrooshalUX](https://github.com/KrooshalUX)  | Amazon      |
 | Kyle Averack        | [kavck](https://github.com/kavck)            | Amazon      |
