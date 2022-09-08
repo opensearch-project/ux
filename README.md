@@ -16,7 +16,7 @@
 * [Downloads](https://opensearch.org/downloads.html).
 * [Documentation](https://opensearch.org/docs/latest/)
 * Need help? Try [Forums](https://forum.opensearch.org/)
-* [Project Principles](https://opensearch.org/#principles)
+* [Project Principles](https://opensearch.org/about.html#principles-for-development)
 * [Contributing to OpenSearch](CONTRIBUTING.md)
 * [Maintainers](MAINTAINERS.md)
 * [Security](SECURITY.md)
