@@ -14,13 +14,11 @@
 
 * [Project Website](https://opensearch.org/)
 * [Downloads](https://opensearch.org/downloads.html).
-* [Documentation](https://docs-beta.opensearch.org/)
-* Need help? Try [Forums](https://discuss.opendistrocommunity.dev/)
+* [Documentation](https://opensearch.org/docs/latest/)
+* Need help? Try [Forums](https://forum.opensearch.org/)
 * [Project Principles](https://opensearch.org/#principles)
 * [Contributing to OpenSearch](CONTRIBUTING.md)
-* [Maintainer Responsibilities](MAINTAINERS.md)
-* [Release Management](RELEASING.md)
-* [Admin Responsibilities](ADMINS.md)
+* [Maintainers](MAINTAINERS.md)
 * [Security](SECURITY.md)
 
 ## Code of Conduct
