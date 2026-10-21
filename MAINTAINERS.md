@@ -10,4 +10,9 @@ This document contains a list of maintainers in this repo. See [opensearch-proje
 | Kevin Garcia   | [kgcreative](https://github.com/kgcreative)   | Amazon      |
 | Ka Ming Leung  | [kamingleung](https://github.com/kamingleung) | Amazon      |
 | Shanil Patel   | [shanilpa](https://github.com/shanilpa)       | Amazon      |
-| Laura Pavlov   | [lauralexis](https://github.com/lauralexis)   | Amazon      |
+
+## Emeritus
+
+| Maintainer   | GitHub ID                                   |
+| ------------ | -------------------------------------------- |
+| Laura Pavlov | [lauralexis](https://github.com/lauralexis)   |
