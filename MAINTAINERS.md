@@ -6,13 +6,13 @@ This document contains a list of maintainers in this repo. See [opensearch-proje
 
 | Maintainer     | GitHub ID                                     | Affiliation |
 | -------------- | --------------------------------------------- | ----------- |
-| Kroosh Crusius | [KrooshalUX](https://github.com/KrooshalUX)   | Amazon      |
 | Kevin Garcia   | [kgcreative](https://github.com/kgcreative)   | Amazon      |
 | Ka Ming Leung  | [kamingleung](https://github.com/kamingleung) | Amazon      |
-| Shanil Patel   | [shanilpa](https://github.com/shanilpa)       | Amazon      |
 
 ## Emeritus
 
 | Maintainer   | GitHub ID                                   |
 | ------------ | -------------------------------------------- |
 | Laura Pavlov | [lauralexis](https://github.com/lauralexis)   |
+| Kroosh Crusius | [KrooshalUX](https://github.com/KrooshalUX) |
+| Shanil Patel | [shanilpa](https://github.com/shanilpa) |
